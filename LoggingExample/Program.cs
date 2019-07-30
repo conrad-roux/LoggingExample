@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Logging.Logic;
 
 namespace LoggingExample
 {
@@ -10,6 +11,8 @@ namespace LoggingExample
     {
         static void Main(string[] args)
         {
+            Log logging = new Log();
+            logging.Write("");
         }
     }
 }

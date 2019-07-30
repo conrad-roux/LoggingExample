@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Logger\Logger.Imp.csproj">
-      <Project>{550c8b6a-77dd-42a1-9b86-5d7563e8c0de}</Project>
-      <Name>Logger.Imp</Name>
+    <ProjectReference Include="..\Logger.Logic\Logging.Logic.csproj">
+      <Project>{88a39057-0dd3-4d07-9627-6396c5c2c14a}</Project>
+      <Name>Logging.Logic</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

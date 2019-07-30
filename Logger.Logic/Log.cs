@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Logger;
 
-namespace Logger.Logic
+namespace Logging.Logic
 {
     public class Log : ILogger
     {
