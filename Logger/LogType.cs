@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Logger.Logic
+namespace Logger
 {
-    public class Class1
+    public enum LogType
     {
+        All = 1,
+        TextFile = 2,
+        Database = 4,
+        Trace = 8
     }
 }

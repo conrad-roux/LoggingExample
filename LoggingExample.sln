@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingExample", "LoggingEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger.Imp", "Logger\Logger.Imp.csproj", "{550C8B6A-77DD-42A1-9B86-5D7563E8C0DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger.Logic", "Logger.Logic\Logger.Logic.csproj", "{88A39057-0DD3-4D07-9627-6396C5C2C14A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging.Logic", "Logger.Logic\Logging.Logic.csproj", "{88A39057-0DD3-4D07-9627-6396C5C2C14A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
